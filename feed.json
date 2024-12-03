@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://thgoepel.micro.blog/2024/12/03/i-recently-had.html",
+				
+				"content_html": "<p>I recently had the pleasure of meeting with <a href=\"https://www.storagereview.com/author/brian-beeler\">Brian Beeler</a> at <a href=\"https://www.storagereview.com/review/hpe-xp8-storage-array-surpasses-ten-year-zero-downtime-milestone\">Storage Review</a> in Roseville. We reviewed the HPE XP8 Enterprise Storage array and the industry-unique accomplishment of zero downtime for 10 years across the entire installed base. Check out our walk-through on <a href=\"https://youtu.be/PdM4j-3cpbI\">Youtube</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I recently had the pleasure of meeting with [Brian Beeler](https://www.storagereview.com/author/brian-beeler) at [Storage Review](https://www.storagereview.com/review/hpe-xp8-storage-array-surpasses-ten-year-zero-downtime-milestone) in Roseville. We reviewed the HPE XP8 Enterprise Storage array and the industry-unique accomplishment of zero downtime for 10 years across the entire installed base. Check out our walk-through on [Youtube](https://youtu.be/PdM4j-3cpbI)\n\n<img src=\"uploads/2024/storagereview-hpe-xp8-01.png\" width=\"600\" height=\"538\" alt=\"\">\n",
+				"date_published": "2024-12-03T10:30:42-08:00",
+				"url": "https://thgoepel.micro.blog/2024/12/03/i-recently-had.html",
+				"tags": ["Enterprise Storage"]
+			},
+			{
+				"id": "http://thgoepel.micro.blog/2024/11/28/when-driving-along.html",
+				
+				"content_html": "<p>When driving along the coast North of San Francisco, Oysters are a must. Love to stop at Tony’s Seafood in Marshall, CA for their fresh Tomales Bay oysters and amazing seafood.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "When driving along the coast North of San Francisco, Oysters are a must. Love to stop at Tony’s Seafood in Marshall, CA for their fresh Tomales Bay oysters and amazing seafood.\n\n<img src=\"uploads/2024/d1931fffbf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/6552c92a7b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/da7afa17fc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-28T10:00:00-08:00",
+				"url": "https://thgoepel.micro.blog/2024/11/28/when-driving-along.html"
+			},
+			{
 				"id": "http://thgoepel.micro.blog/2024/11/27/went-to-see.html",
 				
 				"content_html": "<p>Went to see some of my favorite wineries DeLoach, Buena Vista and Korbel in California’s wine country. Always fun to go and taste their great wines and champagne.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -43,7 +60,7 @@
 				"id": "http://thgoepel.micro.blog/2024/10/05/spending-a-gorgeous.html",
 				
 				"content_html": "<p>Spending a gorgeous day in Half Moon Bay, cooling off from the heat in the Bay Area. Finishing off the day on the coast with a great meal at Sam’s Chowder House in El Granada.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spending a gorgeous day in Half Moon Bay, cooling off from the heat in the Bay Area. Finishing off the day on the coast with a great meal at Sam’s Chowder House in El Granada.\n\n<img src=\"uploads/2024/5cb2f2cd3b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/3c3f2f659a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/8d3e1f5d88.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Spending a gorgeous day in Half Moon Bay, cooling off from the heat in the Bay Area. Finishing off the day on the coast with a great meal at Sam’s Chowder House in El Granada.\n\n<img src=\"https://cdn.uploads.micro.blog/177699/2024/5cb2f2cd3b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/177699/2024/3c3f2f659a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/177699/2024/8d3e1f5d88.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-05T19:21:31-08:00",
 				"url": "https://thgoepel.micro.blog/2024/10/05/spending-a-gorgeous.html"
 			},
